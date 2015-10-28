@@ -1,0 +1,22 @@
+{
+  "name": "control-reactjs",
+  "version": "1.0.0",
+  "description": "Homepage here: http://motiledigits.github.io/ControlReactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motiledigits/ControlReactjs.git"
+  },
+  "author": "motiledigits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motiledigits/ControlReactjs/issues"
+  },
+  "homepage": "https://github.com/motiledigits/ControlReactjs#readme",
+  "dependencies": {
+    "react": "^0.14.0"
+  }
+}
